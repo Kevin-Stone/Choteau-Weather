@@ -1,2 +1,2 @@
 # Choteau-Weather
-Data and visualization of Choteau,MT weather
+Data and visualization of Choteau, MT weather
