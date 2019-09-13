@@ -1,0 +1,1354 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": "SpinderBC1",
+        "Degree N": 47,
+        "Min N": 37,
+        "Sec N": 59.9,
+        "Degree W": 112,
+        "Min W": 41,
+        "Sec W": 30
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.6916667,
+          47.63330556
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": "SpinderBC2",
+        "Degree N": 47,
+        "Min N": 38,
+        "Sec N": 0.2,
+        "Degree W": 112,
+        "Min W": 41,
+        "Sec W": 31.4
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.6920556,
+          47.63338889
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": "SpinderBC3",
+        "Degree N": 47,
+        "Min N": 37,
+        "Sec N": 59.9,
+        "Degree W": 112,
+        "Min W": 41,
+        "Sec W": 32.1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.69225,
+          47.63330556
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": "SpinderBC4",
+        "Degree N": 47,
+        "Min N": 37,
+        "Sec N": 59.4,
+        "Degree W": 112,
+        "Min W": 41,
+        "Sec W": 31.5
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.6920833,
+          47.63316667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": "SpinderBC5",
+        "Degree N": 47,
+        "Min N": 37,
+        "Sec N": 58.8,
+        "Degree W": 112,
+        "Min W": 41,
+        "Sec W": 30.1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.6916944,
+          47.633
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": "SpinderBC6",
+        "Degree N": 47,
+        "Min N": 37,
+        "Sec N": 58.3,
+        "Degree W": 112,
+        "Min W": 41,
+        "Sec W": 29.1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.6914167,
+          47.63286111
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": "SpinderBC7",
+        "Degree N": 47,
+        "Min N": 37,
+        "Sec N": 59,
+        "Degree W": 112,
+        "Min W": 41,
+        "Sec W": 28.8
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.6913333,
+          47.63305556
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": "SpinderBC8",
+        "Degree N": 47,
+        "Min N": 37,
+        "Sec N": 57.4,
+        "Degree W": 112,
+        "Min W": 41,
+        "Sec W": 31.1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.6919722,
+          47.63261111
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": "SpinderBC9",
+        "Degree N": 47,
+        "Min N": 37,
+        "Sec N": 57.7,
+        "Degree W": 112,
+        "Min W": 41,
+        "Sec W": 32.2
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.6922778,
+          47.63269444
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": "SpinderBC10",
+        "Degree N": 47,
+        "Min N": 37,
+        "Sec N": 58.5,
+        "Degree W": 112,
+        "Min W": 41,
+        "Sec W": 34.4
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.6928889,
+          47.63291667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": "SpinderBC11",
+        "Degree N": 47,
+        "Min N": 37,
+        "Sec N": 56.7,
+        "Degree W": 112,
+        "Min W": 41,
+        "Sec W": 34
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.6927778,
+          47.63241667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": "SpinderBC12",
+        "Degree N": 47,
+        "Min N": 37,
+        "Sec N": 56,
+        "Degree W": 112,
+        "Min W": 41,
+        "Sec W": 33.3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.6925833,
+          47.63222222
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": "SpinderBC13",
+        "Degree N": 47,
+        "Min N": 37,
+        "Sec N": 55.3,
+        "Degree W": 112,
+        "Min W": 41,
+        "Sec W": 32.6
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.6923889,
+          47.63202778
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": "SpinderBC14",
+        "Degree N": 47,
+        "Min N": 37,
+        "Sec N": 55.2,
+        "Degree W": 112,
+        "Min W": 41,
+        "Sec W": 35.2
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.6931111,
+          47.632
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": "SpinderBC15",
+        "Degree N": 47,
+        "Min N": 37,
+        "Sec N": 54.5,
+        "Degree W": 112,
+        "Min W": 41,
+        "Sec W": 33.2
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.6925556,
+          47.63180556
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": "SpinderBC16",
+        "Degree N": 47,
+        "Min N": 37,
+        "Sec N": 54.2,
+        "Degree W": 112,
+        "Min W": 41,
+        "Sec W": 36.1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.6933611,
+          47.63172222
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": "SpinderBC17",
+        "Degree N": 47,
+        "Min N": 37,
+        "Sec N": 55,
+        "Degree W": 112,
+        "Min W": 41,
+        "Sec W": 36.9
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.6935833,
+          47.63194444
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": "SpinderBC18",
+        "Degree N": 47,
+        "Min N": 37,
+        "Sec N": 54.1,
+        "Degree W": 112,
+        "Min W": 41,
+        "Sec W": 35.2
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.6931111,
+          47.63169444
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": "SpinderBC19",
+        "Degree N": 47,
+        "Min N": 37,
+        "Sec N": 53.7,
+        "Degree W": 112,
+        "Min W": 41,
+        "Sec W": 36.4
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.6934444,
+          47.63158333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": "SpinderBC20",
+        "Degree N": 47,
+        "Min N": 37,
+        "Sec N": 54,
+        "Degree W": 112,
+        "Min W": 41,
+        "Sec W": 34.8
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.693,
+          47.63166667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": "SpinderBC21",
+        "Degree N": 47,
+        "Min N": 37,
+        "Sec N": 53.3,
+        "Degree W": 112,
+        "Min W": 41,
+        "Sec W": 34.6
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.6929444,
+          47.63147222
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": "SpinderBC22",
+        "Degree N": 47,
+        "Min N": 37,
+        "Sec N": 53.4,
+        "Degree W": 112,
+        "Min W": 41,
+        "Sec W": 35.7
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.69325,
+          47.6315
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": "SpinderBC23",
+        "Degree N": 47,
+        "Min N": 37,
+        "Sec N": 51.3,
+        "Degree W": 112,
+        "Min W": 41,
+        "Sec W": 38.1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.6939167,
+          47.63091667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": "SpinderBC24",
+        "Degree N": 47,
+        "Min N": 37,
+        "Sec N": 41.4,
+        "Degree W": 112,
+        "Min W": 41,
+        "Sec W": 33.1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.6925278,
+          47.62816667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": "SpinderBC25",
+        "Degree N": 47,
+        "Min N": 37,
+        "Sec N": 40.7,
+        "Degree W": 112,
+        "Min W": 41,
+        "Sec W": 33.7
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.6926944,
+          47.62797222
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": "SpinderBC26",
+        "Degree N": 47,
+        "Min N": 37,
+        "Sec N": 39.4,
+        "Degree W": 112,
+        "Min W": 41,
+        "Sec W": 35.6
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.6932222,
+          47.62761111
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": "SpinderBC27",
+        "Degree N": 47,
+        "Min N": 37,
+        "Sec N": 37.2,
+        "Degree W": 112,
+        "Min W": 41,
+        "Sec W": 40.1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.6944722,
+          47.627
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": "SpinderBC28",
+        "Degree N": 47,
+        "Min N": 37,
+        "Sec N": 35.7,
+        "Degree W": 112,
+        "Min W": 41,
+        "Sec W": 40.2
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.6945,
+          47.62658333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": "SpinderBC29",
+        "Degree N": 47,
+        "Min N": 37,
+        "Sec N": 34.5,
+        "Degree W": 112,
+        "Min W": 41,
+        "Sec W": 39.4
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.6942778,
+          47.62625
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": "SpinderBC30",
+        "Degree N": 47,
+        "Min N": 37,
+        "Sec N": 33,
+        "Degree W": 112,
+        "Min W": 41,
+        "Sec W": 40.3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.6945278,
+          47.62583333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": "SpinderBC31",
+        "Degree N": 47,
+        "Min N": 37,
+        "Sec N": 32.8,
+        "Degree W": 112,
+        "Min W": 41,
+        "Sec W": 42.6
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.6951667,
+          47.62577778
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": "SpinderBC32",
+        "Degree N": 47,
+        "Min N": 37,
+        "Sec N": 31.4,
+        "Degree W": 112,
+        "Min W": 41,
+        "Sec W": 47.4
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.6965,
+          47.62538889
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": "SpinderBC33",
+        "Degree N": 47,
+        "Min N": 37,
+        "Sec N": 30.5,
+        "Degree W": 112,
+        "Min W": 41,
+        "Sec W": 49.8
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.6971667,
+          47.62513889
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": "SpinderBC34",
+        "Degree N": 47,
+        "Min N": 37,
+        "Sec N": 29.6,
+        "Degree W": 112,
+        "Min W": 41,
+        "Sec W": 47.2
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.6964444,
+          47.62488889
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": "AllenBC1",
+        "Degree N": 47,
+        "Min N": 37,
+        "Sec N": 49.7,
+        "Degree W": 112,
+        "Min W": 41,
+        "Sec W": 36.3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.6934167,
+          47.63047222
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": "AllenBC2",
+        "Degree N": 47,
+        "Min N": 37,
+        "Sec N": 45.3,
+        "Degree W": 112,
+        "Min W": 41,
+        "Sec W": 38.1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.6939167,
+          47.62925
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": "AllenBC3",
+        "Degree N": 47,
+        "Min N": 37,
+        "Sec N": 45.5,
+        "Degree W": 112,
+        "Min W": 41,
+        "Sec W": 41.5
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.6948611,
+          47.62930556
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": "AllenBC4",
+        "Degree N": 47,
+        "Min N": 37,
+        "Sec N": 43.3,
+        "Degree W": 112,
+        "Min W": 41,
+        "Sec W": 38.4
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.694,
+          47.62869444
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": "AllenBC5",
+        "Degree N": 47,
+        "Min N": 37,
+        "Sec N": 42.2,
+        "Degree W": 112,
+        "Min W": 41,
+        "Sec W": 35.1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.6930833,
+          47.62838889
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": "AllenBC6",
+        "Degree N": 47,
+        "Min N": 37,
+        "Sec N": 42.3,
+        "Degree W": 112,
+        "Min W": 41,
+        "Sec W": 37.5
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.69375,
+          47.62841667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": "AllenBC7",
+        "Degree N": 47,
+        "Min N": 37,
+        "Sec N": 42.4,
+        "Degree W": 112,
+        "Min W": 41,
+        "Sec W": 39.3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.69425,
+          47.62844444
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": "AllenBC8",
+        "Degree N": 47,
+        "Min N": 37,
+        "Sec N": 42,
+        "Degree W": 112,
+        "Min W": 41,
+        "Sec W": 41.4
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.6948333,
+          47.62833333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": "AllenBC9",
+        "Degree N": 47,
+        "Min N": 37,
+        "Sec N": 41.1,
+        "Degree W": 112,
+        "Min W": 41,
+        "Sec W": 43.8
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.6955,
+          47.62808333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": "AllenBC10",
+        "Degree N": 47,
+        "Min N": 37,
+        "Sec N": 40.1,
+        "Degree W": 112,
+        "Min W": 41,
+        "Sec W": 46.9
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.6963611,
+          47.62780556
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": "AllenBC11",
+        "Degree N": 47,
+        "Min N": 37,
+        "Sec N": 39.5,
+        "Degree W": 112,
+        "Min W": 41,
+        "Sec W": 45.4
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.6959444,
+          47.62763889
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": "AllenBC12",
+        "Degree N": 47,
+        "Min N": 37,
+        "Sec N": 39.7,
+        "Degree W": 112,
+        "Min W": 41,
+        "Sec W": 43.3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.6953611,
+          47.62769444
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": "AllenBC13",
+        "Degree N": 47,
+        "Min N": 37,
+        "Sec N": 39.1,
+        "Degree W": 112,
+        "Min W": 41,
+        "Sec W": 41
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.6947222,
+          47.62752778
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": "AllenBC14",
+        "Degree N": 47,
+        "Min N": 37,
+        "Sec N": 38.9,
+        "Degree W": 112,
+        "Min W": 41,
+        "Sec W": 44.9
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.6958056,
+          47.62747222
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": "AllenBC15",
+        "Degree N": 47,
+        "Min N": 37,
+        "Sec N": 36.6,
+        "Degree W": 112,
+        "Min W": 41,
+        "Sec W": 47.7
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.6965833,
+          47.62683333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": "AllenBC16",
+        "Degree N": 47,
+        "Min N": 37,
+        "Sec N": 35.7,
+        "Degree W": 112,
+        "Min W": 41,
+        "Sec W": 44.1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.6955833,
+          47.62658333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": "AllenBC17",
+        "Degree N": 47,
+        "Min N": 37,
+        "Sec N": 35.1,
+        "Degree W": 112,
+        "Min W": 41,
+        "Sec W": 42.9
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.69525,
+          47.62641667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": "AllenBC18",
+        "Degree N": 47,
+        "Min N": 37,
+        "Sec N": 34.3,
+        "Degree W": 112,
+        "Min W": 41,
+        "Sec W": 44.6
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.6957222,
+          47.62619444
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": "AllenBC19",
+        "Degree N": 47,
+        "Min N": 37,
+        "Sec N": 33.8,
+        "Degree W": 112,
+        "Min W": 41,
+        "Sec W": 45.9
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.6960833,
+          47.62605556
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": "AllenBC20",
+        "Degree N": 47,
+        "Min N": 37,
+        "Sec N": 33.2,
+        "Degree W": 112,
+        "Min W": 41,
+        "Sec W": 46.7
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.6963056,
+          47.62588889
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": "AllenBC21",
+        "Degree N": 47,
+        "Min N": 37,
+        "Sec N": 33.6,
+        "Degree W": 112,
+        "Min W": 41,
+        "Sec W": 48.4
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.6967778,
+          47.626
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": "AllenBC22",
+        "Degree N": 47,
+        "Min N": 37,
+        "Sec N": 33.1,
+        "Degree W": 112,
+        "Min W": 41,
+        "Sec W": 49.1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.6969722,
+          47.62586111
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": "AllenBC23",
+        "Degree N": 47,
+        "Min N": 37,
+        "Sec N": 33.4,
+        "Degree W": 112,
+        "Min W": 41,
+        "Sec W": 49.8
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.6971667,
+          47.62594444
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": "AllenBC24",
+        "Degree N": 47,
+        "Min N": 37,
+        "Sec N": 32.6,
+        "Degree W": 112,
+        "Min W": 41,
+        "Sec W": 48.5
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.6968056,
+          47.62572222
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": "AllenBC25",
+        "Degree N": 47,
+        "Min N": 37,
+        "Sec N": 26.4,
+        "Degree W": 112,
+        "Min W": 41,
+        "Sec W": 46
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.6961111,
+          47.624
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": "AllenBC26",
+        "Degree N": 47,
+        "Min N": 37,
+        "Sec N": 24.5,
+        "Degree W": 112,
+        "Min W": 41,
+        "Sec W": 42.7
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.6951944,
+          47.62347222
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": "SpinderRL1",
+        "Degree N": 47,
+        "Min N": 36,
+        "Sec N": 56.8,
+        "Degree W": 112,
+        "Min W": 46.5,
+        "Sec W": 41
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.7863889,
+          47.61577778
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": "SpinderRL2",
+        "Degree N": 47,
+        "Min N": 36,
+        "Sec N": 53.3,
+        "Degree W": 112,
+        "Min W": 41.2,
+        "Sec W": 41
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.6980556,
+          47.61480556
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": "SpinderRL3",
+        "Degree N": 47,
+        "Min N": 36,
+        "Sec N": 52.2,
+        "Degree W": 112,
+        "Min W": 40,
+        "Sec W": 41
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.6780556,
+          47.6145
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": "SpinderRL4",
+        "Degree N": 47,
+        "Min N": 36,
+        "Sec N": 51.7,
+        "Degree W": 112,
+        "Min W": 41.5,
+        "Sec W": 41
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.7030556,
+          47.61436111
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": "SpinderRL5",
+        "Degree N": 47,
+        "Min N": 36,
+        "Sec N": 52.5,
+        "Degree W": 112,
+        "Min W": 44.3,
+        "Sec W": 41
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.7497222,
+          47.61458333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": "SpinderRL6",
+        "Degree N": 47,
+        "Min N": 36,
+        "Sec N": 51.5,
+        "Degree W": 112,
+        "Min W": 43,
+        "Sec W": 41
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.7280556,
+          47.61430556
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": "SpinderRL7",
+        "Degree N": 47,
+        "Min N": 36,
+        "Sec N": 49,
+        "Degree W": 112,
+        "Min W": 37.1,
+        "Sec W": 41
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.6297222,
+          47.61361111
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": "AllenRL1",
+        "Degree N": 47,
+        "Min N": 36,
+        "Sec N": 50.7,
+        "Degree W": 112,
+        "Min W": 36.5,
+        "Sec W": 41
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.6197222,
+          47.61408333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": "AllenRL2",
+        "Degree N": 47,
+        "Min N": 36,
+        "Sec N": 50.6,
+        "Degree W": 112,
+        "Min W": 34.5,
+        "Sec W": 41
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.5863889,
+          47.61405556
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": "AllenRL3",
+        "Degree N": 47,
+        "Min N": 36,
+        "Sec N": 51.6,
+        "Degree W": 112,
+        "Min W": 35.2,
+        "Sec W": 41
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.5980556,
+          47.61433333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": "AllenRL4",
+        "Degree N": 47,
+        "Min N": 36,
+        "Sec N": 50.5,
+        "Degree W": 112,
+        "Min W": 32.8,
+        "Sec W": 41
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.5580556,
+          47.61402778
+        ]
+      }
+    }
+  ]
+}
